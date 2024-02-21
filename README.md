@@ -1,7 +1,7 @@
 # Hello everyone!
 Perkenalkan nama saya Fikrin Werdiansyah.<br>
 
-Saya Mahasiswa Sistem Informasi dari **Universitas Bina Sarana Informatika**<br>
+Saya Mahasiswa *Sistem Informasi* dari **Universitas Bina Sarana Informatika**<br>
 Saya meminati *Back-End Developer* dalam konsentrasi bidang keilmuan.<br>
 
 Saya bertanggung jawab pada bagian merancang, mengelola, dan memelihara database yang digunakan oleh aplikasi.
