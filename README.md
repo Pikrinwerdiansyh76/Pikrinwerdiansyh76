@@ -9,4 +9,4 @@ Saya dibekali sertifikasi oleh [Dicoding Academy](https://www.dicoding.com/certi
 
 Jika kamu tertarik untuk berkenalan denganku silakan ikuti akun [Instagram](https://www.instagram.com/fkrn_werdiansyah/) ku ya.<br>
 
-**Terimkasih**
+**Terimakasih**
