@@ -1,4 +1,4 @@
-### Hi! i'm FIKRIN!
+### Hi!👋 i'm FIKRIN!
 Perkenalkan nama saya Fikrin Werdiansyah.<br>
 
 Saya Mahasiswa *Sistem Informasi* dari **Universitas Bina Sarana Informatika**<br>
